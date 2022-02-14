@@ -1,6 +1,6 @@
 # Bing Dwen Dwen
 
-> A painting script for Bing-Dwen-Dwen. 
+> A painting script for Bing Dwen Dwen. 
 
 ## Background
 
