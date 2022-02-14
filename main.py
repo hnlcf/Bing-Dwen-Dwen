@@ -397,5 +397,3 @@ turtle.write("BEIJING 2022", font=('JetBrains Mono', 12, 'bold'))
 turtle.hideturtle()
 
 turtle.done()
-ts = turtle.getscreen()
-ts.getcanvas().postscript(file="dundun.png")
